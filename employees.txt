@@ -1,0 +1,5 @@
+James = general manager
+Andrew = sale assistant
+Olivia = HR manager
+Newell = CEO
+Michael = Accountant
